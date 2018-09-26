@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{CEEACD9A-5238-1466-3C9F-F1314EBCEA15}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/#Scripts/createEvents.cs">
+    <Files>
+      <File FileName="Assets/#Scripts/createEvents.cs" Line="7" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

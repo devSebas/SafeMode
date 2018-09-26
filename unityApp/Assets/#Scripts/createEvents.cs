@@ -34,7 +34,7 @@ public class createEvents : MonoBehaviour {
 			a.GetComponent<getIncident> ().Go (i+1, map);
 			a.transform.SetParent(transform, false);
 			a.transform.localPosition = new Vector3 (0f, -60f, 0f);
-			a.transform.Translate (new Vector3 (0f, -190f * i, 0f), transform);
+            a.transform.Translate (new Vector3 (0f, -350f * i, 0f), transform);
 			minTrans -= 30f;
 		}
 
